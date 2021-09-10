@@ -1,1 +1,1 @@
-Halo. Ini adalah pengenalan pada repository Pengalaman Belajar.
+File ini untuk test conflict merge pada hello.txt
