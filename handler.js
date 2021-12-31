@@ -107,7 +107,7 @@ const getAllBooksHandler = (request, h) => {
 const getBookByIdHandler = (request, h) => {
   const { id } = request.params
   // eslint-disable-next-line no-use-before-define
-  const book = book.filter((b) => b.id === id)[0]
+  const books = book.filter((b) => b.id === id)[0]
 
   if (book !== undefined) {
     return {
