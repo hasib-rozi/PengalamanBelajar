@@ -1,1 +1,1 @@
-Halo. Ini adalah pengenalan pada repository Pengalaman Belajar di Dicoding.
+File ini untuk test conflict merge pada hello.txt
